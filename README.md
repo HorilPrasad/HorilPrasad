@@ -2,7 +2,7 @@ Hi there 👋
 
 I’m @HorilPrasad
 
-- 👀 I’m studying at MNNIT Allahabad.
+- 👀 I’m currently studying at MNNIT Allahabad.
 - 🌱 I’m currently learning Android Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
